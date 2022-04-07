@@ -1,2 +1,4 @@
 Hugo
 (A) Benvinguda a la branca01 Hugo
+(E) Afegim imatge a branca01 Hugo
+(F) Afegim imatge a branca02 NomAlumne
