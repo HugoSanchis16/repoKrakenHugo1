@@ -3,3 +3,5 @@ Hugo
 (B) Modificació 01 Main Hugo
 (C) Benvinguda a la branca02 NomAlumne
 (D) Modificació 02 Main NomAlumne
+(E) Afegim imatge a branca01 Hugo
+(F) Afegim imatge a branca02 NomAlumne
